@@ -1,6 +1,6 @@
-# Microdust 微尘
+# nirvanafish   
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This is a blog created by nirvanafish. The blog is live at [nirvanafish.github.io](http://nirvanafish.github.io/).
 
 ## Thanks
 
